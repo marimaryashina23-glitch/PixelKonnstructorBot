@@ -1,0 +1,16 @@
+{
+  "name": "pixelkonnstructor-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for website consultations with unique brand style",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
